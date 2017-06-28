@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d0a8a46-231e-4a42-8d5a-f9e99b6ddda0" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="12str_replace.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/12str_replace.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="36" lean-forward="false" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01execicio.html" />
+        <option value="$PROJECT_DIR$/01exercicio.html" />
+        <option value="$PROJECT_DIR$/01valor.php" />
+        <option value="$PROJECT_DIR$/02exercicio.html" />
+        <option value="$PROJECT_DIR$/02idade.php" />
+        <option value="$PROJECT_DIR$/03exercicio.html" />
+        <option value="$PROJECT_DIR$/03cores.php" />
+        <option value="$PROJECT_DIR$/exercicio01.html" />
+        <option value="$PROJECT_DIR$/exercicio01.php" />
+        <option value="$PROJECT_DIR$/exercicio02.php" />
+        <option value="$PROJECT_DIR$/exercicio02.html" />
+        <option value="$PROJECT_DIR$/exercicio03.html" />
+        <option value="$PROJECT_DIR$/exercicio03.php" />
+        <option value="$PROJECT_DIR$/02parte1.php" />
+        <option value="$PROJECT_DIR$/02parte2.php" />
+        <option value="$PROJECT_DIR$/01contador.php" />
+        <option value="$PROJECT_DIR$/02index.html" />
+        <option value="$PROJECT_DIR$/02-fatorial.php" />
+        <option value="$PROJECT_DIR$/03index.html" />
+        <option value="$PROJECT_DIR$/03tabuada.php" />
+        <option value="$PROJECT_DIR$/_modelohtml.html" />
+        <option value="$PROJECT_DIR$/01index.php" />
+        <option value="$PROJECT_DIR$/02-index.php" />
+        <option value="$PROJECT_DIR$/02-tabuada.php" />
+        <option value="$PROJECT_DIR$/03-funcao.php" />
+        <option value="$PROJECT_DIR$/01-funcao.php" />
+        <option value="$PROJECT_DIR$/funcoes.php" />
+        <option value="$PROJECT_DIR$/02-funcao.php" />
+        <option value="$PROJECT_DIR$/01printf.php" />
+        <option value="$PROJECT_DIR$/02print_r.php" />
+        <option value="$PROJECT_DIR$/02wordwrap.php" />
+        <option value="$PROJECT_DIR$/04strlen.php" />
+        <option value="$PROJECT_DIR$/05trim.php" />
+        <option value="$PROJECT_DIR$/08word_count.php" />
+        <option value="$PROJECT_DIR$/09explode.php" />
+        <option value="$PROJECT_DIR$/10str_split.php" />
+        <option value="$PROJECT_DIR$/11implode.php" />
+        <option value="$PROJECT_DIR$/12chr.php" />
+        <option value="$PROJECT_DIR$/13ord.php" />
+        <option value="$PROJECT_DIR$/01strtolower.php" />
+        <option value="$PROJECT_DIR$/02strtoupper.php" />
+        <option value="$PROJECT_DIR$/03ucfirst.php" />
+        <option value="$PROJECT_DIR$/04ucwords.php" />
+        <option value="$PROJECT_DIR$/05strrev.php" />
+        <option value="$PROJECT_DIR$/06strpos.php" />
+        <option value="$PROJECT_DIR$/07stripos.php" />
+        <option value="$PROJECT_DIR$/08substr.php" />
+        <option value="$PROJECT_DIR$/09subtr_v2.php" />
+        <option value="$PROJECT_DIR$/10str_pad.php" />
+        <option value="$PROJECT_DIR$/11str_repeat.php" />
+        <option value="$PROJECT_DIR$/12str_replace.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aula17" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aula17" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../aula18" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\aula17" />
+      <recent name="C:\wamp\www\aula16" />
+      <recent name="C:\wamp\www\aula15" />
+      <recent name="C:\wamp\www\aula14" />
+      <recent name="C:\wamp\www\aula13" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.02exercicio.html">
+    <configuration default="false" name="01exercicio.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/aula08/01exercicio.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="02exercicio.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/aula08/02exercicio.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.01exercicio.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.02exercicio.html" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.02exercicio.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.01exercicio.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d0a8a46-231e-4a42-8d5a-f9e99b6ddda0" name="Default" comment="" />
+      <created>1497385856989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1497385856989</updated>
+      <workItem from="1497385858670" duration="3758000" />
+      <workItem from="1497470635168" duration="678000" />
+      <workItem from="1497472368945" duration="3099000" />
+      <workItem from="1497540400486" duration="599000" />
+      <workItem from="1497791911451" duration="639000" />
+      <workItem from="1497795086741" duration="6492000" />
+      <workItem from="1497892287999" duration="117000" />
+      <workItem from="1497892440870" duration="2487000" />
+      <workItem from="1497895266243" duration="4212000" />
+      <workItem from="1498157776222" duration="553000" />
+      <workItem from="1498158364210" duration="2802000" />
+      <workItem from="1498161500873" duration="1484000" />
+      <workItem from="1498163013560" duration="1518000" />
+      <workItem from="1498249532720" duration="19000" />
+      <workItem from="1498249568131" duration="2965000" />
+      <workItem from="1498252587914" duration="756000" />
+      <workItem from="1498517578765" duration="2972000" />
+      <workItem from="1498563908047" duration="603000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35753000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2987897" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/exercicio03.html" />
+    <entry file="file://$PROJECT_DIR$/exercicio03.php" />
+    <entry file="file://$PROJECT_DIR$/02parte2.php" />
+    <entry file="file://$PROJECT_DIR$/02parte1.php" />
+    <entry file="file://$PROJECT_DIR$/01contador.php" />
+    <entry file="file://$PROJECT_DIR$/02index.html" />
+    <entry file="file://$PROJECT_DIR$/../aula10/exercicio03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-fatorial.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa0.645/aula12/03-tabuada.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa0.645/aula12/03-index.php" />
+    <entry file="file://$PROJECT_DIR$/03tabuada.php" />
+    <entry file="file://$PROJECT_DIR$/03index.html" />
+    <entry file="file://$PROJECT_DIR$/03-tabuada.php" />
+    <entry file="file://$PROJECT_DIR$/03-index.php" />
+    <entry file="file://$PROJECT_DIR$/../aula10/exercicio03.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-index.html" />
+    <entry file="file://$PROJECT_DIR$/01index.php" />
+    <entry file="file://$PROJECT_DIR$/02-tabuada.php" />
+    <entry file="file://$PROJECT_DIR$/02-index.php" />
+    <entry file="file://$PROJECT_DIR$/03-index.html" />
+    <entry file="file://$PROJECT_DIR$/03-primo.php" />
+    <entry file="file://$PROJECT_DIR$/03-funcao.php" />
+    <entry file="file://$PROJECT_DIR$/01-funcao.php" />
+    <entry file="file://$PROJECT_DIR$/funcoes.php" />
+    <entry file="file://$PROJECT_DIR$/02-funcao.php" />
+    <entry file="file://$PROJECT_DIR$/01printf.php" />
+    <entry file="file://$PROJECT_DIR$/02print_r.php" />
+    <entry file="file://$PROJECT_DIR$/02wordwrap.php" />
+    <entry file="file://$PROJECT_DIR$/04strlen.php" />
+    <entry file="file://$PROJECT_DIR$/05trim.php" />
+    <entry file="file://$PROJECT_DIR$/08word_count.php" />
+    <entry file="file://$PROJECT_DIR$/09explode.php" />
+    <entry file="file://$PROJECT_DIR$/11implode.php" />
+    <entry file="file://$PROJECT_DIR$/10str_split.php" />
+    <entry file="file://$PROJECT_DIR$/13ord.php" />
+    <entry file="file://$PROJECT_DIR$/12chr.php" />
+    <entry file="file://$PROJECT_DIR$/_modelohtml.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_modelophp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01strtolower.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02strtoupper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03ucfirst.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04ucwords.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05strrev.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06stripos.php" />
+    <entry file="file://$PROJECT_DIR$/06strpos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07stripos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08substr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="42" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09subtr_v2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10str_pad.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11str_repeat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12str_replace.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="36" lean-forward="false" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
